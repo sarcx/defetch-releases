@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.8.1 — 2026-07-22
+
+- Publish release docs to the public releases repo
+
 ## v0.8.0 — 2026-07-22
 
 - Add interactive file picker for the files command

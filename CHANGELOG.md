@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.8.4 — 2026-07-22
+
+- The commit message:
+
 ## v0.8.3 — 2026-07-22
 
 - Add fallback when commit generator returns a bump line

@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.8.5 — 2026-07-23
+
+- Extract commit-message cleanup into cleanMessage helper
+
 ## v0.8.4 — 2026-07-22
 
 - Fix interactive file picker by resuming stdin

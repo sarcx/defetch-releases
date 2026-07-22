@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.8.2 — 2026-07-22
+
+- (no changes)
+
 ## v0.8.1 — 2026-07-22
 
 - Publish release docs to the public releases repo

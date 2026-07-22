@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.8.3 — 2026-07-22
+
+- Add fallback when commit generator returns a bump line
+
 ## v0.8.2 — 2026-07-22
 
 - Trim whitespace from the releases token so CI can push docs

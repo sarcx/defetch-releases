@@ -2,7 +2,7 @@
 
 ## v0.8.2 — 2026-07-22
 
-- (no changes)
+- Trim whitespace from the releases token so CI can push docs
 
 ## v0.8.1 — 2026-07-22
 

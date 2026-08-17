@@ -1,5 +1,16 @@
 # Changelog
 
+## v0.9.0 — 2026-08-18
+
+- Add NAT traversal so peers can leave the relay
+- Make every shared directory removable
+- Add multiple shared directories to shared command
+- Show shared folder path in shared command
+- Rename share command to shared
+- Remove get command in favor of files picker
+- Add background downloads with live status view
+- Retain CI build artifacts for one day
+
 ## v0.8.5 — 2026-07-23
 
 - Extract commit-message cleanup into cleanMessage helper

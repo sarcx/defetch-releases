@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.10.0 — 2026-08-19
+
+- Read .torrent files beside the shared data
+- Bump checkout and setup-node from v5 to v7
+- Bump checkout and setup-node to v5
+- Strip whitespace from the release token everywhere
+- Publish release assets without Actions storage
+
 ## v0.9.0 — 2026-08-18
 
 - Add NAT traversal so peers can leave the relay

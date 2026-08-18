@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.10.1 — 2026-08-19
+
+- Show torrent contents that no peer holds yet
+
 ## v0.10.0 — 2026-08-19
 
 - Read .torrent files beside the shared data

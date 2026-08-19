@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.13.0 — 2026-08-19
+
+- Download BitTorrent files where they will live
+- Fetch a torrent from the peer that advertised it
+- Let pruning survive a draft with no tag
+
 ## v0.12.3 — 2026-08-19
 
 - Wait for published files, not verified pieces

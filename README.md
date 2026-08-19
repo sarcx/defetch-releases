@@ -8,7 +8,7 @@ Runs on macOS, Linux, and Windows. This repository hosts the release binaries;
 grab the asset for your platform from the
 [latest release](https://github.com/sarcx/defetch-releases/releases/latest).
 
-**Latest release: v0.12.3**
+**Latest release: v0.13.0**
 
 ## Download
 

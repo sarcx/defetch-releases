@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.12.3 — 2026-08-19
+
+- Wait for published files, not verified pieces
+
 ## v0.12.0 — 2026-08-19
 
 - Download files from the BitTorrent swarm

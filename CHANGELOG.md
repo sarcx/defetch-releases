@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.12.0 — 2026-08-19
+
+- Download files from the BitTorrent swarm
+
 ## v0.11.0 — 2026-08-19
 
 - Share torrent contents across the swarm

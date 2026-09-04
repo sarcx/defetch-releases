@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.13.2 — 2026-09-04
+
+- Announce a file only once it is really there
+
 ## v0.13.0 — 2026-08-19
 
 - Download BitTorrent files where they will live

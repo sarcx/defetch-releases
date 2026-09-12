@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.13.3 — 2026-09-12
+
+- Only pass on torrents with a live swarm
+
 ## v0.13.2 — 2026-09-04
 
 - Announce a file only once it is really there

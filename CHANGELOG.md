@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.14.1 — 2026-09-13
+
+- Build expected settings paths with path.join
+
 ## v0.13.6 — 2026-09-13
 
 - Show estimated time left in download status

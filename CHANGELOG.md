@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.13.5 — 2026-09-13
+
+- Restart into the new version after upgrading
+
 ## v0.13.4 — 2026-09-12
 
 - Track requests per block, not per piece

@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.13.6 — 2026-09-13
+
+- Show estimated time left in download status
+
 ## v0.13.5 — 2026-09-13
 
 - Restart into the new version after upgrading

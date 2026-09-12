@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.13.4 — 2026-09-12
+
+- Track requests per block, not per piece
+
 ## v0.13.3 — 2026-09-12
 
 - Only pass on torrents with a live swarm

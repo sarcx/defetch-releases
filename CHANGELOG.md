@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.14.2 — 2026-09-13
+
+- Keep the remembered directory beside the program
+
 ## v0.14.1 — 2026-09-13
 
 - Build expected settings paths with path.join

@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.15.0 — 2026-09-14
+
+- Reach peers directly over IPv6
+- Keep the status line and peer list honest
+
 ## v0.14.2 — 2026-09-13
 
 - Keep the remembered directory beside the program

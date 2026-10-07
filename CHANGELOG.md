@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.15.1 — 2026-10-07
+
+- Add helper to label files with their torrent
+
 ## v0.15.0 — 2026-09-14
 
 - Reach peers directly over IPv6

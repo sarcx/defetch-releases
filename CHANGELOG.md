@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.17.0 — 2026-10-07
+
+- Hide developer notices unless they are asked for
+
 ## v0.16.0 — 2026-10-07
 
 - Add a cinema mode that lists only movies

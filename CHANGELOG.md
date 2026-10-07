@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.18.0 — 2026-10-07
+
+- Find the swarm again without --relay or --peer
+
 ## v0.17.0 — 2026-10-07
 
 - Hide developer notices unless they are asked for

@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.16.0 — 2026-10-07
+
+- Add a cinema mode that lists only movies
+
 ## v0.15.1 — 2026-10-07
 
 - Add helper to label files with their torrent

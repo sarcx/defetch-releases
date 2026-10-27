@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.19.0 — 2026-10-27
+
+- Publish the Android TV app with each release
+- Add an Android TV app that runs defetch for Stremio
+- Add a Stremio add-on that plays films from the swarm
+- Fix upgrades failing twice in a row on Windows
+
 ## v0.18.0 — 2026-10-07
 
 - Find the swarm again without --relay or --peer

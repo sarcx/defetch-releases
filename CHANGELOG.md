@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.21.0 — 2026-10-27
+
+- Add an Upgrade button to the Android TV app
+
 ## v0.20.0 — 2026-10-27
 
 - Suggest the relay of a peer on the same network

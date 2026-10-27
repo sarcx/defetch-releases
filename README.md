@@ -8,7 +8,7 @@ Runs on macOS, Linux, Windows, and Android TV. This repository hosts the release
 grab the asset for your platform from the
 [latest release](https://github.com/sarcx/defetch-releases/releases/latest).
 
-**Latest release: v0.19.0**
+**Latest release: v0.20.0**
 
 ## Download
 

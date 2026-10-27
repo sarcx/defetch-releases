@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.20.0 — 2026-10-27
+
+- Suggest the relay of a peer on the same network
+
 ## v0.19.0 — 2026-10-27
 
 - Publish the Android TV app with each release
